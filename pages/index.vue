@@ -17,10 +17,7 @@
           v-for="product in productStore.products"
           :key="product"
           class="d-flex child-flex"
-          xs="12"
-          sm="12"
-          md="4"
-          lg="3"
+          cols="4"
         >
           <product :product="product" />
         </v-col>
