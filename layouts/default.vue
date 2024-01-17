@@ -6,7 +6,7 @@
     <!-- Main -->
     <slot />
     <!-- Footer -->
-    <v-footer color="red">
+    <v-footer color="blue">
       <v-container>
         <v-row>
           <v-col cols="4">
@@ -27,6 +27,9 @@
             mollitia! In laborum voluptatibus eos itaque eveniet veniam
             pariatur? Voluptate enim nesciunt maiores!
           </v-col>
+        </v-row>
+        <v-row>
+          <v-col> Develop by: Anish Babu </v-col>
         </v-row>
       </v-container>
     </v-footer>

@@ -1,6 +1,6 @@
 <template>
   <v-toolbar
-    color="red
+    color="blue
 "
   >
     <v-toolbar-items>
