@@ -3,6 +3,7 @@
     color="blue
 "
   >
+    <v-toolbar-title>Anish Babu Recipe</v-toolbar-title>
     <v-toolbar-items>
       <v-btn text="Home" to="/"></v-btn>
       <v-btn text="Product" to="/product"></v-btn>
